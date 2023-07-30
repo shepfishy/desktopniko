@@ -23,7 +23,7 @@ jobs:
         uses: microsoft/setup-msbuild@v1.1
 
       - name: Restore Packages
-        run: nuget restore MySolution.sln
+        run: nuget restore desktopniko.sln
 
       - name: Build solution
-        run: msbuild MySolution.sln -t:rebuild -property:Configuration=Release
+        run: msbuild desktopniko.sln -t:rebuild -property:Configuration=Release
