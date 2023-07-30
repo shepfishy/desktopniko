@@ -27,3 +27,9 @@ jobs:
 
       - name: Build solution
         run: msbuild desktopniko.sln -t:rebuild -property:Configuration=Release
+
+      - name: Upload compiled application
+        uses: actions/upload-artifact@v3
+        with:
+          name: desktopniko
+          path: bin/desktopniko.exe
