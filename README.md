@@ -4,7 +4,7 @@ A character named Niko walks around your desktop.
 
 Customised it a bunch -> fixed movement speed and animations (because they we're just bricked lmao)
 
-I did this because I wanted a linux for more than just XFCE, so I took this one and changed it up a bit.
+I did this because I wanted a linux version for more than just XFCE, so I took this one and changed it up a bit.
 
 ## Usage
 
