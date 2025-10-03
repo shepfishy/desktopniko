@@ -11,7 +11,7 @@ python3 desktopniko_linux.py
 
 Right-click on Niko to open the control menu for options like cloning, spawning pancakes, and controlling movement.
 
-## Requirements
+## Requirements/ Prerequisites
 
 - Python 3
 - GTK 3
@@ -24,4 +24,4 @@ sudo apt install python3-gi python3-gi-cairo gir1.2-gtk-3.0
 
 ## Credits
 
-Original Windows version and Niko character from OneShot by Eliza, Michael, and Nightmargin.
+Original Windows version by [@Alexplayrus2](https://github.com/Alexplayrus2) and Niko character from [OneShot](https://store.steampowered.com/app/420530/OneShot/) by Eliza, Michael, and Nightmargin.
